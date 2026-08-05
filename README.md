@@ -1,4 +1,4 @@
-# LabVIEW-Integrated-Smart-Store-Room-Automation-System
+# LabVIEW Integrated Smart Store Room Automation System
 # Smart Store Room Automation System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
